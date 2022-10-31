@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
+Solomon Sarr
+1. Linus Torvalds
+2. Creating the Linux operating system
+3. 2005
+4. git init
+5. uploads content in a local repository to a remote one
+6. tells git which files to ignore in a project
+7. a copy of a repository. they let you make changes to a project without affecting the original repository
+8. git clone is used to point to an existing repo and make a clone or copy of that repo in a new directory, at another location. You can have multiple but not in the same directory
+9. never
+10. true
 ==================================================
