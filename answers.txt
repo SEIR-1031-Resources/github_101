@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds.
+2. Linus was also famous for the creation of Linux kernel and oversaw open source development of the widley used Linus OS.
+3. 2005.
+4. Git init.
+5. A git push takes your progress on VScode to a remote repository on github.
+6. Gitignore makes it so certain files are not tracked by git.
+7. Fork is taking your own "copy" of a repository so you can make changes for your own personal use.
+8. Cloning is your own "copy" of a repository that you forked over and used the SSH link. 300 clones is the max.
+9. You can. It allows you to clone another repository as a subdirectory of another git repository and keeps your commits seperate.
+10. True. You can type git status when you are under the (main or master) file.
