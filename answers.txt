@@ -1,3 +1,23 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Mary Rodriguez
+1. Linus Torvalds
+
+2.He is also the lead developer of Linux kernel
+
+3. 2005
+
+4.git init
+
+5.git push is putting the changes made in vscode and updating it to github
+
+6.so that the file is not tracked by git
+
+7.forking is making a duplicate onto your own github, its important to be able to make your own changes wihtout affecting the originals.
+
+8.gets the copy with all its contents from github to the text or code edi
+
+9. you should not put a github repo in another github repo
+
+9. True
