@@ -1,3 +1,18 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+
+1. Linus Torvalds                                                                                        
+2. He is also famous for developing the Linux kernel.
+3. 2005
+4. git init
+5. Git push uploads the files in your local repository that you have created or 
+   edited to the remote repository.
+6. A "/.gitignore" file is used to mark files or folders that should not be uploaded when pushing projects.
+   The most common reasons for this is to protect sensitive data or because a folders file size is large.
+7. A fork is copy of a repository. Once you copy the repository you are able to freely edit it without
+   affecting the source code. 
+8. A clone is the copy of the repository that was forked locally on your computer. You should only
+   need to clone the repository once.                                
+9. No you should not do this. 
+10. True
