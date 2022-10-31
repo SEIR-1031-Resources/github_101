@@ -22,4 +22,4 @@ Please include your name and number your answers.
 ### **9. Should you put a GitHub repository inside another GitHub repository?**
         You could have submodules
 ### **10. You can type `git status` at any time while in a git repository - true or false?**   
-        True
+        True 
