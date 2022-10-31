@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds
+2. developer of Linux
+3. 2005
+4. git init
+5. sends commits from local branch to remote repository 
+6. to keep your secrets safe or to keep untracked files untracked
+7. a fork is a personal version of a block of code that you can edit without ruining the orginal
+8. its a clone of the repository. you can have 1 clone per directory.
+9. never i repeat never
+10. true
