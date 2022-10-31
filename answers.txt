@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Git was invented by Linus Torvalds
+2. Linus is also famous for inventing Linux
+3. 2005
+4. git init
+5. "git push" takes the updated files you have given to it, and publishes them.
+6. The .gitignore file tells git which files not to upload
+7. A fork copies the code to your own repository, so you can make changes to it.
+8. A clone is all the files saved into a directory on your computer. I don't know how many clones you're capable of having, but I don't know why you would have more than one per project per computer?
+9. NOOOOO
+10. true
