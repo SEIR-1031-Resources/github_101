@@ -1,3 +1,14 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+Gabriel Cruz 
+1. Linus Torvalds created Git.
+2. Linus created Linux and oversaw its development. 
+3. Git was created in 2005.
+4. Git init initializes a new repository.
+5. Git push is updating or making changes to a code and pushing it forward to be seen and approved by the creator.
+6. The purpose of gitignore files is to ensure that certain files not tracked by Git remain untracked. 
+7. Fork is important to create a new process in UNIX, its useful to have remote repositories be placed to local so you may edit or update them.
+8. A clone is a copy of a repository.
+9. You should not put a git repo in another git repo.
+10. Yes at any point you can git status. 
