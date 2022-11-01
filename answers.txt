@@ -1,3 +1,13 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
+1. Linus Torvalds 
+2.Torvalds is also famous for Linux Kernal 1.0
+3. Git was invented in 2005
+4. git init
+5. the push command is used to upload a remote repository from a local repository
+6..gitignore tells git not to track chosen files 
+7. A fork is a copy that now exist apart from the original repository that was forked. The fork command is important because it allows multiple tasks to run independently from one another. 
+8. A clone is a copy of the repository from github to your local machine. None, a git repository should not live inside another git repository.
+9. No you should not put a github repository inside another git repository
+10. True 
